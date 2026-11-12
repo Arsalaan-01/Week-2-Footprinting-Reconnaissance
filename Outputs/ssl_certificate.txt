@@ -1,0 +1,6 @@
+subject=CN=networkwalks.com
+issuer=C=US, O=Let's Encrypt, CN=YR2
+notBefore=Oct 23 01:05:46 2026 GMT
+notAfter=Jan 21 01:05:45 2027 GMT
+X509v3 Subject Alternative Name: 
+    DNS:*.networkwalks.com, DNS:networkwalks.com

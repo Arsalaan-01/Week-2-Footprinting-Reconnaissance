@@ -1,0 +1,13 @@
+ERROR:wafw00f:Something went wrong HTTPSConnectionPool(host='networkwalks.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='networkwalks.com', port=443) at 0x7eff76ccbb60>, 'Connection to networkwalks.com timed out. (connect timeout=7)'))
+ERROR:wafw00f:Site networkwalks.com appears to be down
+
+                 ?              ,.   (   .      )        .      "
+         __        ??          ("     )  )'     ,'        )  . (`     '`
+    (___()'`;   ???          .; )  ' (( (" )    ;(,     ((  (  ;)  "  )")
+    /,___ /`                 _"., ,._'_.,)_(..,( . )_  _' )_') (. _..( ' )
+    \\   \\                 |____|____|____|____|____|____|____|____|____|
+
+                                ~ WAFW00F : v2.4.2 ~
+                    ~ Sniffing Web Application Firewalls since 2009 ~
+
+[*] Checking https://networkwalks.com

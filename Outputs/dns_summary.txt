@@ -1,0 +1,22 @@
+===== DNS ENUMERATION SUMMARY =====
+
+===== A RECORD =====
+192.232.216.135
+
+===== NS RECORDS =====
+ns6136.hostgator.com.
+ns6135.hostgator.com.
+
+===== MX RECORDS =====
+0 mail.networkwalks.com.
+
+===== TXT RECORDS =====
+"google-site-verification=rr04eRmqHoWY3XemnizDNVK4q75X-Ij-mjgEeg-UsYI"
+"v=spf1 +a +mx +ip4:50.87.144.87 +include:websitewelcome.com ~all"
+
+===== CNAME RECORD =====
+;; communications error to 8.8.8.8#53: timed out
+networkwalks.com.
+
+===== CNAME RECORD (Cloudflare DNS) =====
+networkwalks.com.

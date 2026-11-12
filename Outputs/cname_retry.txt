@@ -1,0 +1,21 @@
+
+; <<>> DiG 9.20.29-1-Debian <<>> @1.1.1.1 +time=5 +tries=2 www.networkwalks.com CNAME
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25261
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;www.networkwalks.com.		IN	CNAME
+
+;; ANSWER SECTION:
+www.networkwalks.com.	14391	IN	CNAME	networkwalks.com.
+
+;; Query time: 116 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Tue Nov 10 09:55:21 EST 2026
+;; MSG SIZE  rcvd: 63
+

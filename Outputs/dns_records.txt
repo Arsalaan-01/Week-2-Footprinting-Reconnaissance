@@ -1,0 +1,65 @@
+===== MX RECORDS =====
+
+; <<>> DiG 9.20.29-1-Debian <<>> networkwalks.com MX
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10653
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;networkwalks.com.		IN	MX
+
+;; ANSWER SECTION:
+networkwalks.com.	14400	IN	MX	0 mail.networkwalks.com.
+
+;; Query time: 328 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Nov 10 08:50:16 EST 2026
+;; MSG SIZE  rcvd: 66
+
+===== NS RECORDS =====
+
+; <<>> DiG 9.20.29-1-Debian <<>> networkwalks.com NS
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7747
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;networkwalks.com.		IN	NS
+
+;; ANSWER SECTION:
+networkwalks.com.	21600	IN	NS	ns6136.hostgator.com.
+networkwalks.com.	21600	IN	NS	ns6135.hostgator.com.
+
+;; Query time: 324 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Nov 10 08:50:16 EST 2026
+;; MSG SIZE  rcvd: 97
+
+===== TXT RECORDS =====
+
+; <<>> DiG 9.20.29-1-Debian <<>> networkwalks.com TXT
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37021
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;networkwalks.com.		IN	TXT
+
+;; ANSWER SECTION:
+networkwalks.com.	14400	IN	TXT	"v=spf1 +a +mx +ip4:50.87.144.87 +include:websitewelcome.com ~all"
+networkwalks.com.	14400	IN	TXT	"google-site-verification=rr04eRmqHoWY3XemnizDNVK4q75X-Ij-mjgEeg-UsYI"
+
+;; Query time: 292 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Nov 10 08:50:16 EST 2026
+;; MSG SIZE  rcvd: 203
+

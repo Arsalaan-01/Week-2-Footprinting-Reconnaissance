@@ -1,0 +1,18 @@
+===== SUBDOMAIN ENUMERATION =====
+===== www.networkwalks.com =====
+networkwalks.com.
+192.232.216.135
+===== mail.networkwalks.com =====
+192.232.216.135
+===== ftp.networkwalks.com =====
+networkwalks.com.
+192.232.216.135
+===== webmail.networkwalks.com =====
+networkwalks.com.
+192.232.216.135
+===== cpanel.networkwalks.com =====
+networkwalks.com.
+192.232.216.135
+===== dev.networkwalks.com =====
+===== test.networkwalks.com =====
+===== api.networkwalks.com =====
